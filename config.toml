@@ -1,0 +1,21 @@
+[theme]
+# Primary accent color for interactive elements.
+primaryColor = "darkcyan"
+
+[server]
+runOnSave = true
+enableStaticServing = true
+
+# Background color for the main content area.
+mainContentBackgroundColor = "#FFFFFF"
+
+# Background color used for the sidebar and most interactive widgets.
+secondaryBackgroundColor = "#FFFFFF"
+
+# Color used for almost all text.
+textColor = "#000000"
+
+# Font family for all text in the app, except code blocks. One of "sans serif", "serif", or "monospace".
+# Default: "sans serif"
+font = "sans serif"
+
